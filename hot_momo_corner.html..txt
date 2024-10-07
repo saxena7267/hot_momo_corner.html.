@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hot Momo Corner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #ff5722;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hot Momo Corner</h1>
+</header>
+
+<section>
+    <h2>Welcome to Hot Momo Corner!</h2>
+    <p>Location: In front of Company Bagh, Gate No. 1</p>
+    <h3>Menu</h3>
+    <p>Delicious momos coming soon!</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Hot Momo Corner</p>
+</footer>
+
+</body>
+</html>
